@@ -129,16 +129,16 @@ class Lottospiel
 					            puts()
 	                    end #case e
 	                    	        
-	             when eingabeChar == 'L'
+	             when 'L'
 	                    begin
 	        	          # Strip Variante
 		              
 		                  # strip-Part
 		                  # is_To_Do
 		      
-		                  end             
+		                end             
                
-               end #if
+               end #case
       end #while
 
 					array = Array.new(7, Integer)
