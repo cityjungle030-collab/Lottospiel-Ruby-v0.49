@@ -21,6 +21,8 @@ You'll be kept up to date when the next version gets launched                   
       
 
 ### CODE FRAGMENTS
+      ### with some changes in the 0.7-Version:
+      ### Lotto-Projekt_v0.7.rb
 
       class Lottospiel
           (german for Lotto-Game)
@@ -47,24 +49,28 @@ You'll be kept up to date when the next version gets launched                   
       
       end #class Lottospiel
           2026-02-07
+          2026-02-09
 
 
-### IN UPCOMING UPDATES
+### IN UPCOMING UPDATES (Current = Lotto-Projekt_v0.7.rb)
     - I want to make the input via string.strip run
       def zahlenEingeben ():array
       will need the option after pressed Key 'L'
-      (currently not working)
+      (was not working), now fixed
 
     - There will be translated versions at least in:
       - english
       - português
       - maybe more
+        (not yet)
 
     - There will be a long-time mode to get percentage-values
       and data-output-visualization
+      (def longRun() # for 59Runs), now written
 
     - There will come a black and white only
       actually UTF-8-safe-version
+      (not yet)
 
       
 
