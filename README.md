@@ -21,8 +21,14 @@ You'll be kept up to date when the next version gets launched                   
       
 
 ### CODE FRAGMENTS
+      ### stand-alone-Program in the 0.6-Version
+      ### Lotto-Projekt_v0.6.rb
+      
       ### with some changes in the 0.7-Version:
       ### Lotto-Projekt_v0.7.rb
+
+      ### black and white ASCII 0.8-Version
+      ### Lotto-Projekt_v0.8.rb
 
       class Lottospiel
           (german for Lotto-Game)
@@ -50,6 +56,7 @@ You'll be kept up to date when the next version gets launched                   
       end #class Lottospiel
           2026-02-07
           2026-02-09
+          2026-03-01
 
 
 ### IN UPCOMING UPDATES (Current = Lotto-Projekt_v0.7.rb)
@@ -62,7 +69,7 @@ You'll be kept up to date when the next version gets launched                   
       - english
       - português
       - maybe more
-        (not yet)
+        (in the past not available), now implemented
 
     - There will be a long-time mode to get percentage-values
       and data-output-visualization
@@ -70,7 +77,8 @@ You'll be kept up to date when the next version gets launched                   
 
     - There will come a black and white only
       actually UTF-8-safe-version
-      (not yet)
+      >> Lotto-Projekt_v0.8
+      >> comes multilingual
 
       
 
