@@ -1,0 +1,212 @@
+name: "international.yaml"
+edition: 0.5
+
+part1:
+        DE: "Möchten Sie die Lottozeilen einzel eingeben?"
+        EN: "Would you like to enter the lottery lines in elemantary-Mode (one by one)"
+        PT: "Gostaria de entrar nas linhas da loteria elementar (individualmente)"
+        KR: "로또 라인을 하나씩 입력해 보시겠어요?"
+        VN: "Bạn có muốn vào từng dòng xổ số một không?"
+        
+part2: 
+        DE: "oder als Liste (sechs aus neundvierzig, plus Superzahl)?"
+        EN: "or as a list (six out of forty-nine, plus super number)?"
+        PT: "ou como uma lista (seis de quarenta e nove, mais o supernúmero)?"
+        KR: "아니면 목록(49개 중 6개와 수퍼 넘버 포함)으로?"
+        VN: "hoặc dưới dạng danh sách (sáu trong số bốn mươi chín, cộng với số siêu)?"
+
+part3:
+        DE: "[E] = einzeln"
+        EN: "[E] = elemantry"
+        PT: "[E] = elementar"
+        KR: "[E] = 개별적으로"
+        VN: "[E] = cá nhân"
+        
+part4:
+        DE: "[L] = Liste"
+        EN: "[L] = list"
+        PT: "[L] = lista"
+        KR: "[L] = 목록"
+        VN: "[L] = danh sách"
+        
+part5:
+        DE: "Die Eingabe war nicht korrekt, versuchen Sie es erneut!"
+        EN: "The input was incorrect, try again!"
+        PT: "A entrada estava incorreta, tente novamente!"
+        KR: "입력이 잘못되었습니다. 다시 시도하세요!"
+        VN: "Dữ liệu nhập không chính xác, hãy thử lại!"
+                
+part6:
+        DE: "Geben Sie N°1 vom Tip ein: "
+        EN: "Enter the N°1 of the Tip"
+        PT: "Insira o N°1 da Dica:"
+        KR: "팁에서 N°1을 입력하세요."
+        VN: "Nhập số 1 từ Mẹo:"
+        
+part7:
+        DE: "Geben Sie N°2 vom Tip ein: "
+        EN: "Enter the N°2 of the Tip"
+        PT: "Insira o N°2 da Dica:"
+        KR: "팁에서 N°2를 입력하세요."
+        VN: "Nhập số 2 từ Mẹo:"
+        
+part8:
+        DE: "Geben Sie N°3 vom Tip ein: "
+        EN: "Enter the N°3 of the Tip"
+        PT: "Insira o N°3 da Dica:"
+        KR: "팁에서 N°3을 입력하세요."
+        VN: "Nhập số 3 từ Mẹo:"
+        
+part9:
+        DE: "Geben Sie N°4 vom Tip ein: "
+        EN: "Enter the N°4 of the Tip"
+        PT: "Insira o N°4 da Dica:"
+        KR: "팁에서 N°4를 입력하세요."
+        VN: "Nhập số 4 từ Mẹo:"
+
+part10:
+        DE: "Geben Sie N°5 vom Tip ein: "
+        EN: "Enter the N°5 of the Tip"
+        PT: "Insira o N°5 da Dica:"
+        KR: "팁에서 N°5를 입력하세요."
+        VN: "Nhập số 5 từ Mẹo:"
+
+part11:
+        DE: "Geben Sie N°6 vom Tip ein: "
+        EN: "Enter the N°6 of the Tip"
+        PT: "Insira o N°6 da Dica:"
+        KR: "팁에서 N°6을 입력하세요."
+        VN: "Geben Sie N°6 vom Tip ein: "
+        
+part12:
+        DE: "Geben Sie Ihre Superzahl (zwischen 0 und 9) ein: "
+        EN: "Enter your super number (between 0 and 9): "
+        PT: "Digite seu supernúmero (entre 0 e 9): "
+        KR: "수퍼 번호(0~9 사이)를 입력하세요. "
+        VN: "Nhập số siêu của bạn (từ 0 đến 9):"
+        
+part13:
+        DE: "Ihr jetziger Score liegt bei: "
+        EN: "Your current score is at: "
+        PT: "Sua pontuação atual é: "
+        KR: "귀하의 현재 점수는 다음과 같습니다: "
+        VN: "Số điểm hiện tại của bạn là: "
+        
+part14:
+        DE: "Ihre Superzahl lautet: "
+        EN: "Your super number is: "
+        PT: "Seu supernúmero é: "
+        KR: "귀하의 수퍼 번호는 다음과 같습니다: "
+        VN: "Số siêu của bạn là: "
+        
+part15:
+        DE: "Ihr Lottoschein sieht so aus: "
+        EN: "Your lottery ticket looks like this: "
+        PT: "Seu bilhete de loteria é assim: "
+        KR: "귀하의 복권은 다음과 같습니다:"
+        VN: "Vé số của bạn trông như thế này:"
+        
+part16:
+        DE: "Lotto-Ziehung "
+        EN: "lottery drawing "
+        PT: "Sorteio de loteria"
+        KR: "로또 추첨"
+        VN: "Vẽ xổ số"
+        
+part17:
+        DE: "Ihre Gewinnquote liegt bei: "
+        EN: "Your winning percentage is: "
+        PT: "Sua porcentagem de vitórias é: "
+        KR: "귀하의 승률은 다음과 같습니다:"
+        VN: "Tỷ lệ chiến thắng của bạn là:"
+        
+
+part18:
+        DE: "## Ihr Tip ist: "
+        EN: "## YOUR TIP IS: "
+        PT: "## Sua dica é: "
+        KR: "귀하의 복권 팁은 다음과 같습니다:"
+        VN: "Mẹo xổ số của bạn là:"
+        
+part19:
+        DE: " ist Superzahl"
+        EN: " is super number"
+        PT: " é um super número"
+        KR: " 슈퍼넘버야"
+        VN: " là siêu số"
+        
+part20:
+        DE: "Geben Sie eine Liste ein: zuerst die Superzahl, dann 6 Lottozahlen!"
+        EN: "Enter a list: first the super number, then 6 lottery numbers!"
+        PT: "Insira uma lista: primeiro o supernúmero, depois 6 números de loteria!"
+        KR: "목록을 입력하세요. 먼저 슈퍼 번호를 입력하고 다음으로 로또 번호 6개를 입력하세요!"
+        VN: "Nhập một danh sách: đầu tiên là số siêu, sau đó là 6 số xổ số!"
+        
+part21:
+        DE: "Starten Sie mit der Superzahl und trennen die Zahlen mit Komma!"
+        EN: "Start with the super number and separate the numbers with commas!"
+        PT: "Comece com o supernúmero e separe os números com vírgulas!"
+        KR: "슈퍼 번호로 시작하고 숫자를 쉼표로 구분하세요!"
+        VN: "Bắt đầu với số siêu và phân tách các số bằng dấu phẩy!"
+        
+part22:
+        DE: "Der Tip war nicht korrekt!"
+        EN: "The tip was incorrect!"
+        PT: "A dica estava incorreta!"
+        KR: "팁이 틀렸어요!"
+        VN: "Mẹo không chính xác!"
+        
+part23:
+        DE: "Ihre Gewinnsumme liegt bei: "
+        EN: "Your winning amount is: "
+        PT: "O valor do seu prêmio é: "
+        KR: "귀하의 당첨 금액은 다음과 같습니다: "
+        VN: "Số tiền thắng của bạn là: "
+        
+part24:
+        DE: "HERZLICH WILLKOMMEN BEI DER LOTTO-SIMULATION"
+        EN: "WELCOME TO THE LOTTO SIMULATION"
+        PT: "BEM-VINDO À SIMULAÇÃO DE LOTO"
+        KR: "로또 시뮬레이션에 오신 것을 환영합니다"
+        VN: "CHÀO MỪNG BẠN ĐẾN VỚI MÔ PHỎNG LOTO"
+        
+part25:
+        DE: "Wählen sie [D] für Deutsch"
+        EN: "Chose [E] for English"
+        PT: "Selecione [P] para idioma Português"
+        KR: "한글은 [H], 한글은 [K]를 선택하세요."
+        VN: "Chọn [V] cho ngôn ngữ tiếng Việt"
+        
+part26:
+        DE: "Erstellen Sie einen Lotto-Tipp! \n"
+        EN: "Create a lottery tip! \n"
+        PT: "Crie uma dica de loteria! \n"
+        KR: "복권 팁 만들기!\n"
+        VN: "Tạo mẹo xổ số!\n"
+        
+part27:
+        DE: "Wünschen Sie [S] ein Spiel  oder [W] 58 Spiele?"
+        EN: "Do you want [S] single game or [W] 58 weekly games?"
+        PT: "Você quer [S] um jogo solo ou [W] 58 jogos?"
+        KR: "[S] 1게임을 원하시나요, 아니면 [W] 58게임을 원하시나요?"
+        VN: "Bạn muốn [S] một ván hay [W] 58 ván?"
+
+part28:
+        DE: "Der Spielstand wird automatisch festgehalten"
+        EN: "The score is recorded automatically"
+        PT: "A pontuação é registrada automaticamente"
+        KR: "점수는 자동으로 기록됩니다"
+        VN: "Điểm số được ghi lại tự động"
+        
+part29:
+        DE: "Drücken Sie zum Neustart [R] und zum Verlassen [Q]"
+        EN: "Press [R] to restart or [Q] to quit"
+        PT: "Pressione [R] para reiniciar ou [Q] para sair"
+        KR: "다시 시작하려면 [R]을 누르고 종료하려면 [Q]를 누르세요."
+        VN: "Nhấn [R] để khởi động lại hoặc [Q] để thoát"
+        
+        
+        
+        
+        
+        
